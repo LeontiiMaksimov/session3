@@ -1,4 +1,4 @@
-#task 3
+#DISCOUNT PRICES
 def customer_discount(subtotal: float, customer: str) -> float:
     if customer == "student":
         return subtotal * 0.90
