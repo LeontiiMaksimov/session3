@@ -38,3 +38,4 @@ if __name__ == "__main__":
         print("Unknown item.")
     else:
         print(f"That costs {price:.2f} €")
+ 
